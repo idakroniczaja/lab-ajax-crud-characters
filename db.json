@@ -1,0 +1,305 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "dsfa",
+      "occupation": "dafd",
+      "weapon": "pen",
+      "id": 4
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "id": 14
+    },
+    {
+      "name": "dsaf",
+      "occupation": "dadf",
+      "weapon": "da",
+      "cartoon": "on",
+      "id": 15
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 16
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 17
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 18
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 19
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 20
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 21
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 23
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 25
+    },
+    {
+      "name": "sd",
+      "occupation": "dafdsf",
+      "weapon": "dsaf",
+      "cartoon": "on",
+      "id": 27
+    },
+    {
+      "name": "ne znam",
+      "occupation": "ne znam n",
+      "weapon": "ne znam",
+      "cartoon": "on",
+      "id": 29
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 34
+    },
+    {
+      "name": "dsaf",
+      "occupation": "ne znam n",
+      "weapon": "ne znam",
+      "cartoon": "on",
+      "id": 35
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 36
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 37
+    },
+    {
+      "name": "dsaf",
+      "occupation": "dadf",
+      "weapon": "dsaf",
+      "cartoon": "on",
+      "id": 38
+    },
+    {
+      "name": "SOME",
+      "occupation": "NEW",
+      "weapon": "CHARACTER",
+      "cartoon": "on",
+      "id": 39
+    },
+    {
+      "name": "Ida",
+      "occupation": "writer",
+      "weapon": "pen",
+      "cartoon": "on",
+      "id": 40
+    },
+    {
+      "name": "sd",
+      "occupation": "dadf",
+      "weapon": "s",
+      "cartoon": "on",
+      "id": 41
+    },
+    {
+      "name": "s",
+      "occupation": "dafdsf",
+      "weapon": "sa",
+      "cartoon": "on",
+      "id": 42
+    },
+    {
+      "name": "dsaf",
+      "occupation": "s",
+      "weapon": "dsaf",
+      "cartoon": "on",
+      "id": 43
+    },
+    {
+      "name": "sd",
+      "occupation": "ne znam n",
+      "weapon": "dsaf",
+      "cartoon": "on",
+      "id": 44
+    },
+    {
+      "name": "Ida",
+      "occupation": "writer",
+      "weapon": "dsaf",
+      "cartoon": "on",
+      "id": 45
+    },
+    {
+      "name": "s",
+      "occupation": "dafdsf",
+      "weapon": "ne znam",
+      "cartoon": "on",
+      "id": 46
+    },
+    {
+      "name": "da",
+      "occupation": "dadf",
+      "weapon": "sa",
+      "cartoon": "on",
+      "id": 47
+    },
+    {
+      "name": "da",
+      "occupation": "s",
+      "weapon": "s",
+      "cartoon": "on",
+      "id": 48
+    },
+    {
+      "name": "dsaf",
+      "occupation": "dadf",
+      "weapon": "da",
+      "cartoon": "on",
+      "id": 49
+    },
+    {
+      "name": "sd",
+      "occupation": "ne znam n",
+      "weapon": "ne znam",
+      "cartoon": "on",
+      "id": 50
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 51
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 52
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 53
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 54
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 55
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": "on",
+      "id": 56
+    }
+  ]
+}
